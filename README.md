@@ -32,9 +32,6 @@
 ```
 
 </td>
-    <td valign="top" width="50%" align="center">
-      <img height="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-    </td>
   </tr>
 </table>
 </div>
