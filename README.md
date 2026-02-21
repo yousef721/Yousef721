@@ -1,12 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:7B2FBE&height=200&section=header&text=Yousef%20Abdullah&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=.NET%20Web%20Developer%20%7C%20Egypt%20🇪🇬&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
-
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+👋;.NET+%26+ASP.NET+Core+Developer;Building+Clean+%26+Scalable+Web+Apps;Always+Learning%2C+Always+Growing+🚀" alt="Typing SVG" />
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:7B2FBE&height=200&section=header&text=Hi%20I'm%20Yousef%20Abdullah%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=.NET%20Web%20Developer%20%7C%20Egypt%20🇪🇬&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
 <!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=yousef721&style=for-the-badge&color=512BD4&label=PROFILE+VIEWS" />
@@ -69,23 +64,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yousef721&show_icons=true&hide_border=true&title_color=512BD4&icon_color=7B2FBE&text_color=333&bg_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=yousef721&hide_border=true&ring=512BD4&fire=7B2FBE&currStreakLabel=512BD4&sideLabels=333&dates=888" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=yousef721&hide_border=true&ring=512BD4&fire=7B2FBE&currStreakLabel=512BD4&sideLabels=333&dates=888" width="55%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yousef721&layout=donut&hide_border=true&title_color=512BD4&text_color=333&bg_color=ffffff&langs_count=8" width="38%" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<!-- Using alternative reliable trophy server -->
-<img src="https://github-trophies.vercel.app/?username=yousef721&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="80%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yousef721&layout=compact&hide_border=true&title_color=512BD4&text_color=333&langs_count=6" width="40%" />
 
 </div>
 
@@ -114,10 +97,6 @@
 <br/><br/>
 
 <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
-
-<br/>
-
-⭐ **Star my repos if you find them useful!**
 
 </div>
 
