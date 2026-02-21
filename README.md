@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:7B2FBE&height=200&section=header&text=Hi%20I'm%20Yousef%20Abdullah%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=.NET%20Web%20Developer%20%7C%20Egypt%20🇪🇬&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:7B2FBE&height=200&section=header&text=Hi%20I'm%20Yousef%20Abdullah%20fontSize=40&fontColor=ffffff&fontAlignY=38&desc=.NET%20Web%20Developer%20%7C%20Egypt%20🇪🇬&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
 <!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=yousef721&style=for-the-badge&color=512BD4&label=PROFILE+VIEWS" />
@@ -15,7 +15,7 @@
 
 ## 🪪 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" height="220" />
 
 ```yaml
 👤 Name       : Yousef Abdullah
