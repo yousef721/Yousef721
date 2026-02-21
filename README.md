@@ -64,20 +64,20 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=yousef721&hide_border=true&ring=512BD4&fire=7B2FBE&currStreakLabel=512BD4&sideLabels=333&dates=888" width="55%" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yousef721&show_icons=true&hide_border=true&title_color=512BD4&icon_color=7B2FBE&text_color=333&count_private=true&include_all_commits=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=yousef721&hide_border=true&ring=512BD4&fire=7B2FBE&currStreakLabel=512BD4&sideLabels=333&dates=888" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yousef721&layout=compact&hide_border=true&title_color=512BD4&text_color=333&langs_count=6" />
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yousef721&layout=compact&hide_border=true&title_color=512BD4&text_color=333&langs_count=6" width="40%" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yousef721&bg_color=ffffff&color=512BD4&line=7B2FBE&point=512BD4&hide_border=true&radius=8" width="95%" />
 </div>
 
 ---
@@ -93,10 +93,6 @@
 <a href="https://github.com/yousef721">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
 
 </div>
 
