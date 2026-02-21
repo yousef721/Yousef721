@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:7B2FBE&height=200&section=header&text=Hi%20I'm%20Yousef%20Abdullah%20fontSize=40&fontColor=ffffff&fontAlignY=38&desc=.NET%20Web%20Developer%20%7C%20Egypt%20🇪🇬&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:7B2FBE&height=200&section=header&text=Yousef%20Abdullah&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=.NET%20Web%20Developer%20%7C%20Egypt&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
 <!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=yousef721&style=for-the-badge&color=512BD4&label=PROFILE+VIEWS" />
@@ -13,43 +13,52 @@
 
 ---
 
-## 🪪 About Me
+## About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" height="220" />
+<div align="center">
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ```yaml
-👤 Name       : Yousef Abdullah
-💼 Role       : Web Developer
-📍 Location   : Egypt 🇪🇬
-🎯 Specialty  : .NET & ASP.NET Core
-🌱 Learning   : Clean Architecture & Design Patterns
-🤝 Available  : Open to Opportunities
-🔗 LinkedIn   : yousef-abdullah-076ba0249
-🐙 GitHub     : yousef721
+Name       : Yousef Abdullah
+Role       : Web Developer
+Location   : Egypt
+Specialty  : .NET & ASP.NET Core
+Learning   : Clean Architecture & Design Patterns
+Available  : Open to Opportunities
+LinkedIn   : yousef-abdullah-076ba0249
+GitHub     : yousef721
 ```
 
-<br clear="right"/>
+</td>
+    <td valign="top" width="50%" align="center">
+      <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### ⚙️ Backend
+### Backend
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-### 🎨 Frontend
+### Frontend
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-### 🗄️ Database & Tools
+### Database & Tools
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -60,7 +69,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yousef721&show_icons=true&hide_border=true&title_color=512BD4&icon_color=7B2FBE&text_color=333&count_private=true&include_all_commits=true" />
@@ -70,7 +79,7 @@
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <div align="center">
 
