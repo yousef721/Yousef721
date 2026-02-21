@@ -82,14 +82,16 @@
 
 ## 📊 GitHub Stats
 
+> ⚡ Powered by [github-readme-stats-fast](https://github.com/kirillscherbin/github-readme-stats) — a faster, cache-optimized fork.
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yousef721&show_icons=true&hide_border=true&title_color=512BD4&icon_color=512BD4&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yousef721&hide_border=true&ring=512BD4&fire=512BD4&currStreakLabel=512BD4" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yousef721&show_icons=true&hide_border=true&title_color=512BD4&icon_color=512BD4&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=yousef721&hide_border=true&ring=512BD4&fire=512BD4&currStreakLabel=512BD4" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef721&layout=compact&hide_border=true&title_color=512BD4&langs_count=8" width="40%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yousef721&layout=compact&hide_border=true&title_color=512BD4&langs_count=8" width="42%" />
 
 </div>
 
@@ -98,7 +100,7 @@
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yousef721&theme=flat&no-frame=true&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yousef721&theme=flat&no-frame=true&column=6&margin-w=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues" />
 </div>
 
 ---
