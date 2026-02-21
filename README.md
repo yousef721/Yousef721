@@ -14,7 +14,7 @@
 <a href="https://github.com/yousef721">
   <img src="https://komarev.com/ghpvc/?username=yousef721&style=for-the-badge&color=512BD4&label=PROFILE+VIEWS" />
 </a>
-&nbsp;
+
 <a href="https://github.com/yousef721?tab=followers">
   <img src="https://img.shields.io/github/followers/yousef721?style=for-the-badge&color=7B2FBE&label=FOLLOWERS" />
 </a>
@@ -86,7 +86,7 @@ I focus on:
 <a href="https://linkedin.com/in/yousef-abdullah-076ba0249">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;
+
 <a href="https://github.com/yousef721">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
