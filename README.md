@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:7B2FBE&height=200&section=header&text=Hi%20I'm%20Yousef%20Abdullah%20&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=.NET%20Web%20Developer%20%7C%20Egypt%20🇪🇬&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:7B2FBE&height=200&section=header&text=Hi%20I'm%20Yousef%20Abdullah%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=.NET%20Web%20Developer%20%7C%20Egypt%20🇪🇬&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
 <!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=yousef721&style=for-the-badge&color=512BD4&label=PROFILE+VIEWS" />
@@ -63,21 +63,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yousef721&show_icons=true&hide_border=true&title_color=512BD4&icon_color=7B2FBE&text_color=333&count_private=true&include_all_commits=true" />
-    </td>
-    <td width="33%" align="center">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=yousef721&hide_border=true&ring=512BD4&fire=7B2FBE&currStreakLabel=512BD4&sideLabels=333&dates=888" />
-    </td>
-    <td width="33%" align="center">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yousef721&layout=compact&hide_border=true&title_color=512BD4&text_color=333&langs_count=6" />
-    </td>
-  </tr>
-</table>
-
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yousef721&show_icons=true&hide_border=true&title_color=512BD4&icon_color=7B2FBE&text_color=333&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=yousef721&hide_border=true&ring=512BD4&fire=7B2FBE&currStreakLabel=512BD4&sideLabels=333&dates=888" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yousef721&layout=compact&hide_border=true&title_color=512BD4&text_color=333&langs_count=6" />
 </div>
 
 ---
