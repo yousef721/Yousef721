@@ -72,7 +72,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yousef721&show_icons=true&hide_border=true&title_color=512BD4&icon_color=7B2FBE&text_color=333&count_private=true&include_all_commits=true" />
+  <img width="50%" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yousef721&show_icons=true&hide_border=true&title_color=512BD4&icon_color=7B2FBE&text_color=333&count_private=true&include_all_commits=true" />
   <img height="180" src="https://streak-stats.demolab.com/?user=yousef721&hide_border=true&ring=512BD4&fire=7B2FBE&currStreakLabel=512BD4&sideLabels=333&dates=888" />
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yousef721&layout=compact&hide_border=true&title_color=512BD4&text_color=333&langs_count=6" />
 </div>
