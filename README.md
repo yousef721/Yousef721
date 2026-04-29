@@ -67,10 +67,11 @@ I focus on:
 
 ## 📊 GitHub Analytics
 
-<div>
+<div style="display:flex; flex-direction:row; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap;">
 
-<img width="360" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yousef721&show_icons=true&hide_border=true&title_color=512BD4&icon_color=7B2FBE&text_color=333&count_private=true&include_all_commits=true&bg_color=fafafa" />
-<img width="360" height="180" src="https://streak-stats.demolab.com/?user=yousef721&hide_border=true&ring=512BD4&fire=7B2FBE&currStreakLabel=512BD4&sideLabels=333&dates=888&background=fafafa" />
+  <img width="360" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yousef721&show_icons=true&hide_border=true&title_color=512BD4&icon_color=7B2FBE&text_color=333&count_private=true&include_all_commits=true&bg_color=fafafa" />
+
+  <img width="360" height="180" src="https://streak-stats.demolab.com/?user=yousef721&hide_border=true&ring=512BD4&fire=7B2FBE&currStreakLabel=512BD4&sideLabels=333&dates=888&background=fafafa" />
 
 </div>
 
